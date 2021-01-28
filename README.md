@@ -2,7 +2,7 @@
 
 ### 👋 ArashEM Github profile 👋
 Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interest in **EM**bedded systems, `Linux` specifically.   
-I'm also interested in hardware desing (Schematic/PCB) and hardware desgin (VHDL)
+I'm also interested in hardware desing (_Schematic/PCB_) and hardware desgin (_VHDL_)!
 
 - 🔭 I’m currently working on [Asus Tinker](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/)
 - 🌱 I’m currently learning **Python** 
