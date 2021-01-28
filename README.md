@@ -1,7 +1,7 @@
 <img width="300px" align="right" src="pic/980726.JPG">
 
-### Hi there 👋
-Hey there, I'm Arash Golgol. I'm an electronic engineer with special interest in embedded systems, `Linux` specifically.   
+### 👋 ArashEM Github profile 👋
+Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interest in **EM**bedded systems, `Linux` specifically.   
 I'm also interested in hardware desing (Schematic/PCB) and hardware desgin (VHDL)
 
 - 🔭 I’m currently working on [Asus Tinker](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/)
