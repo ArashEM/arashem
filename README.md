@@ -6,7 +6,7 @@ I'm also interested in hardware desing (_Schematic/PCB_) and hardware desgin (_V
 
 - 🔭 I’m currently working on 
   - Adding GPS and LCD to [Asus Tinker](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/)
-  - Cleanign up [VS-MP3](https://github.com/ArashEM/VS-MP3)
+  - Cleaning up [VS-MP3](https://github.com/ArashEM/VS-MP3)
 - 🌱 I’m currently learning **STemWin**/**[lvgl](https://lvgl.io/)** 
 - 💬 Ask me about _Linux/Git/STM32_
 - 📫 How to reach me: arash.golgol@gmail.com
