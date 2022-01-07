@@ -5,8 +5,8 @@ Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interes
 I'm also interested in hardware desing (_Schematic/PCB_) and hardware desgin (_VHDL_)!
 
 - 🔭 I’m currently working on 
-  - Setting up docker logging stack with [ELK stack](https://www.elastic.co/what-is/elk-stack)
-  - Getting hands on [Omega2+](https://onion.io/store/omega2p/)
-- 🌱 I’m currently readin _Learning ELK Stack_ by _Saurabh Chhajed_ from PACKT
+  - Setting up virtual environment with [Proxmox-VE](https://www.proxmox.com/en/)
+  - Getting hands on [AT91SAM9260](https://www.microchip.com/en-us/product/AT91SAM9260)
+- 🌱 I’m currently studing [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis?specialization=real-time-embedded-systems) in Coursera. 
 - 💬 Ask me about _Linux/Git/STM32_
 - 📫 How to reach me: arash.golgol@gmail.com
