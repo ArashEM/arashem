@@ -2,7 +2,7 @@
 
 ### 👋 ArashEM Github profile 👋
 Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interest in **EM**bedded systems, `Linux` specifically.   
-I'm also interested in hardware desing (_Schematic/PCB_) and hardware desgin (_VHDL_)!
+I'm also interested in hardware desgin (_Schematic/PCB_) and hardware desgin (_VHDL_)!
 
 - 🔭 I’m currently working on 
   - Setting up virtual environment with [Proxmox-VE](https://www.proxmox.com/en/)
