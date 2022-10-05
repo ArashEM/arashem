@@ -5,8 +5,10 @@ Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interes
 I'm also interested in hardware design (_Schematic/PCB_) and hardware design (_VHDL_)!
 
 - 🔭 I’m currently working on 
-  - Review yocto with [Asus-Tinker](https://www.asus.com/us/Networking-IoT-Servers/AIoT-Industrial-Solutions/Tinker-Board-Series/Tinker-Board/) and working on `dunfell` branch 
-  - Getting hands on [AT91SAM9260](https://www.microchip.com/en-us/product/AT91SAM9260) with `ili9486` display 
-- 🌱 I’m currently studing [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) and [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python) in Coursera. 
+  - Setting up my personal file server based on [Seafile](https://www.seafile.com/en/home/) 
+- 🌱 I’m currently studing 
+  - OOP from [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
+  - [Linux System Programming](https://www.amazon.com/-/es/Robert-Love/dp/1449339530/)
+  - C++
 - 💬 Ask me about _Linux/Git/STM32_
 - 📫 How to reach me: arash.golgol@gmail.com
