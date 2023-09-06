@@ -5,10 +5,9 @@ Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interes
 I'm also interested in hardware design (_Schematic/PCB_) and hardware design (_VHDL_)!
 
 - 🔭 I’m currently working on 
-  - Setting up my personal file server based on [Seafile](https://www.seafile.com/en/home/) 
+  - CAN bus communication between `ASUS-Tinker` and `RaspberryPi` board
 - 🌱 I’m currently studing 
-  - OOP from [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
-  - [Linux System Programming](https://www.amazon.com/-/es/Robert-Love/dp/1449339530/)
-  - C++
+  - [The Car Hacker's Handbook](https://www.oreilly.com/library/view/the-car-hackers/9781457198847/)
+  - [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/)
 - 💬 Ask me about _Linux/Git/STM32_
 - 📫 How to reach me: arash.golgol@gmail.com
