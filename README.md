@@ -8,6 +8,7 @@ I'm also interested in hardware design (_Schematic/PCB_) and hardware design (_V
   - BSP layer for [Mangopi-MQ](https://mangopi.org/mangopi_mq) based on [T113S3](https://linux-sunxi.org/T113-s3)
 - 🌱 I’m currently studing 
   - [C++ Software Design](https://www.oreilly.com/library/view/c-software-design/9781098113155/)
-  - [First, Break All the Rules]()
+  - [Network Routing Basics](https://www.amazon.com/Network-Routing-Basics-Understanding-Systems/dp/0471772739)
+  - [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)
 - 💬 Ask me about _Linux/Git/STM32_
 - 📫 How to reach me: arash.golgol@gmail.com
