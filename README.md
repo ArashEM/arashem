@@ -1,13 +1,13 @@
-<img width="300px" align="right" src="pic/980726.JPG">
+<img width="300px" align="right" src="pic/140303xx.jpg">
 
 ### 👋 ArashEM Github profile 👋
 Hey there, I'm **Arash** Golgol. I'm an electronic engineer with special interest in **EM**bedded systems, `Linux` specifically.   
 I'm also interested in hardware design (_Schematic/PCB_) and hardware design (_VHDL_)!
 
 - 🔭 I’m currently working on 
-  - Custom board based on [T113S3](https://linux-sunxi.org/T113-s3)
+  - [v3s](https://linux-sunxi.org/V3s) media sub systems (`mipi-csi`, `de`, ... ) 
 - 🌱 I’m currently studing 
-  - [Modern C++ Programming with Test-Driven Development](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483)
-  - [Modern CMake for C++](https://www.amazon.com/Modern-CMake-Discover-approach-packaging/dp/1801070059/)
+  - [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0692740872)
+  - [Mastering Linux Device Driver Development](https://www.amazon.com/Mastering-Linux-Device-Driver-Development/dp/178934204X)
 - 💬 Ask me about _Linux/Git/C++_
 - 📫 How to reach me: arash.golgol@gmail.com
